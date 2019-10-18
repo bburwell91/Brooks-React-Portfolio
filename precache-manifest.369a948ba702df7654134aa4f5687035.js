@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5a7d2ecbc3285030915c1062be88ac5",
+    "revision": "9199b0c7c22e3eb3f755a4e1b4cbf8cd",
     "url": "/Brooks-React-Portfolio/index.html"
   },
   {
-    "revision": "33765b82f19620bd2919",
+    "revision": "272b75468b3dc6655d6d",
     "url": "/Brooks-React-Portfolio/static/css/main.35893909.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Brooks-React-Portfolio/static/js/2.6013096d.chunk.js"
   },
   {
-    "revision": "33765b82f19620bd2919",
-    "url": "/Brooks-React-Portfolio/static/js/main.fdca0538.chunk.js"
+    "revision": "272b75468b3dc6655d6d",
+    "url": "/Brooks-React-Portfolio/static/js/main.346beba4.chunk.js"
   },
   {
     "revision": "88dcee1d19f5de3b7039",
