@@ -41,7 +41,7 @@ class HomeNav extends Component {
                 <div id="navbar">
                     <ul>
                         <li><Link activeClass="active" to="about" spy={true} smooth={true} duration={100} >About</Link></li>
-                        <li><Link activeClass="active" to="skills" spy={true} smooth={true} duration={100} >Skills</Link></li>
+                        <li><Link activeClass="active" to="skills-nav" spy={true} smooth={true} duration={100} >Skills</Link></li>
                         <li><Link activeClass="active" to="work" spy={true} smooth={true} duration={100} >Work</Link></li>
                         <li><Link activeClass="active" to="contact" spy={true} smooth={true} duration={100} >Contact</Link></li>
                     </ul>

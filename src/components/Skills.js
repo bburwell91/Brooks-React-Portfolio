@@ -14,7 +14,7 @@ function Skills() {
                             <li>JavaScript</li>
                             <li>jQuery</li>
                             <li>Bootstrap</li>
-                            <li>React</li>
+                            <li>React.js</li>
                         </ul>
                     </div>
                 </div>
