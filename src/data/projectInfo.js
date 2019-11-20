@@ -28,15 +28,24 @@ const projectInfo = [
     },
     {
         id: "project4",
-        image: "https://icons-for-free.com/iconfiles/png/512/environment+green+leaves+nature+recycle+recycling+icon-1320168666770198444.png",
-        link: "#",
-        code: "https://github.com/CharisHadi/project910",
-        title: "Recycling App",
-        description: "Sign up and log in to find recycling events your area. This site allows users to create and join events stored in a SQL database. Technologies used include: HTML, CSS, React.js, AJAX, and MySQL.",
-        alt: "image"
+        image: "https://i1.sndcdn.com/artworks-000206576113-mq2g99-t500x500.jpg",
+        link: "https://bburwell91.github.io/unit-4-game/",
+        code: "https://github.com/bburwell91/unit-4-game",
+        title: "Zelda Rupee Game",
+        description: "Each time the page loads you're presented with a new goal score and each of the rupee values randomizes. Your goal is to meet that number but not to exceed it. Technoligies used: HTML, CSS, JavaScript, and jQuery.",
+        alt: "image"       
+    },  
+    {
+       id: "project5",
+       image: "https://icons-for-free.com/iconfiles/png/512/environment+green+leaves+nature+recycle+recycling+icon-1320168666770198444.png",
+       link: "#",
+       code: "https://github.com/CharisHadi/project910",
+       title: "Recycling App",
+       description: "Sign up and log in to find recycling events your area. This site allows users to create and join events stored in a SQL database. Technologies used include: HTML, CSS, React.js, AJAX, and MySQL.",
+       alt: "image"
     },
     {
-        id: "project5",
+        id: "project6",
         image: "https://kiz10.com/upload/thumbnails/mediums/1553883078_boom-burger.jpg",
         link: "https://hw14eatdaburger.herokuapp.com/",
         code: "https://github.com/bburwell91/burger",
@@ -47,4 +56,3 @@ const projectInfo = [
 ]
 
 export default projectInfo;
-
